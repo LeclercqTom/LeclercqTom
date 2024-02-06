@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leclercq Tom</h1>
+<h1 align="center">Hi, I'm Leclercq Tom</h1>
 <h3 align="center">I'm a student in third year of university bachelor of technology in computer science. I'm in an apprenticeship during two years in "Groupe CHANNEL POIDS LOURDS" company as a computer technician.</h3>
 
 - 🔭 I’m currently working on different kind of projects.
