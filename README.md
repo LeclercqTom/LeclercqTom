@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Leclercq Tom</h1>
-<h3 align="center">I'm a student in third year of university bachelor of technology in computer science. I'm in an apprenticeship during two years in "Groupe CHANNEL POIDS LOURDS" company as a computer technician.</h3>
+<h3 align="center">/h3>
 
-- 🔭 I’m currently working on different kind of projects.
+- 🔭 
 
-- 🌱 I’m currently learning basics of network and I would like to learn basics of cybersecurity too.
+- 🌱 
 
-- 📫 How to reach me **tomleclercq2208@gmail.com**
+- 📫 How to reach me : 
 
 
 ## 🌐 Connect with me:
